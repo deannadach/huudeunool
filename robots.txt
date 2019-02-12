@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aezaev.georg-henkel.de/sitemap.xml
